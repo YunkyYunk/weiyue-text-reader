@@ -39,12 +39,13 @@
 
 ## 二、快速开始（3 步上手）
 
-1. 到本仓库 **Releases** 或直接 `git clone` 下载源码，解压。
+1. 到 [Releases](https://github.com/YunkyYunk/weiyue-text-reader/releases/latest)
+   下载 **v3.0-yunk.zip** 并解压（**已内置 Python 运行时，不用装任何东西**）。
 2. 双击文件夹里的「创建桌面快捷方式.bat」，桌面出现金色羽毛图标。
 3. 双击图标打开软件，点「打开文件」选一个文档，点「从头朗读」。
 
-> 无需安装 Python，解压即用。
-> 想从源码运行：`pip install -r requirements.txt` 然后 `python textreader_app.py`。
+> 免安装 Python，解压即用。想自己从源码跑：
+> `pip install -r requirements.txt` 然后 `python textreader_app.py`。
 
 ---
 
