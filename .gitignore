@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 便携版自带的 Python 运行时（体积大，不应提交到源代码仓库）
+python/
+
+# 测试与输出
+test.pdf
+outputs/
+*.log
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 本版补充：本地配置与运行残留（每台机器都不一样，不入库）
+weiyue_config.json
+早间新闻/
+薇阅回收站/
