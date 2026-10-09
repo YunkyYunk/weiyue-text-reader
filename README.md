@@ -43,7 +43,10 @@ company with a warm, human-like voice.
 
 ## 2. Quick start (3 steps)
 
-1. Download the source from this repository (or `git clone` it) and unzip.
+1. Download **v3.0-yunk.zip** from
+   [Releases](https://github.com/YunkyYunk/weiyue-text-reader/releases/latest)
+   and unzip it — the bundled Python runtime means there is nothing else to
+   install.
 2. Double-click 「创建桌面快捷方式.bat」 to create a desktop shortcut.
 3. Open the app, choose a document, press "Read from Start".
 
